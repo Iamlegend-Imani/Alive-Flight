@@ -2,8 +2,6 @@ lockfileVersion: '9.0'
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
-overrides:
-  miniflare>sharp: 0.35.4
 importers:
   .:
     dependencies:
